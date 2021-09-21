@@ -17,7 +17,7 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/187/187209.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" />][twitter]
 [<img align="left" alt="francescocorsello | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img-premium.flaticon.com/png/512/1377/premium/1377231.png?token=exp=1632221065~hmac=30fbae4f52518b2ecc7c8264e1306a6e" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1177/1177585.png" />][instagram]
 
 <br />
 
