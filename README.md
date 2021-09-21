@@ -15,9 +15,9 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" />][twitter]
 [<img align="left" alt="francescocorsello | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img-premium.flaticon.com/png/512/1377/premium/1377231.png?token=exp=1632221065~hmac=30fbae4f52518b2ecc7c8264e1306a6e" />][instagram]
 
 <br />
 
