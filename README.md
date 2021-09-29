@@ -13,7 +13,7 @@
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Website" width="22px" src="
-https://img-premium.flaticon.com/png/512/2859/premium/2859731.png?token=exp=1632222135~hmac=fa2761147a85eceef632645549d3abec" />][website]
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Fweb-png-jpg-transparent-stock-website-icon-blue-PNG-free-PNG-Images_285955&psig=AOvVaw0hYJrnMIoHf-XmIQ8bmQrC&ust=1633014025408000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDctrm5pPMCFQAAAAAdAAAAABAJ" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/187/187209.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" />][twitter]
 [<img align="left" alt="francescocorsello | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>][linkedin]
