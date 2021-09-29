@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Website" width="22px" src="https://img-premium.flaticon.com/png/512/2002/premium/2002826.png?token=exp=1632928606~hmac=ea23affc34596e99a368d76fa7695ddc" />][website]
+[<img align="left" alt="codeSTACKr | Website" width="22px" src="https://cdn-icons-png.flaticon.com/512/3719/3719350.png" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/187/187209.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" />][twitter]
 [<img align="left" alt="francescocorsello | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>][linkedin]
