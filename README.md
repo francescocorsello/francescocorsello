@@ -47,7 +47,7 @@
 ---
 
 <!-- Pinned Repositories -->
-#### Pinned
+### Pinned
 
 <p align="center">
 <a href="https://github.com/shahriarshafin/shahriarshafin">
